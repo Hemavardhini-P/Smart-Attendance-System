@@ -167,7 +167,8 @@ Add screenshots of the application here.
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+<img width="876" height="568" alt="image" src="https://github.com/user-attachments/assets/27d2e32e-0e09-48c2-bd95-ce16e7cc569d" />
+
 
 ### Dashboard
 
